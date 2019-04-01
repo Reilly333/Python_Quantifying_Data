@@ -1,0 +1,5 @@
+Total Months: 85
+Sum Months: $37514694
+Average Change: $441349.34117647057
+Greatest Increase: $['Aug-13', '999942']
+Greatest Decrease: $['Aug-12', '-1022534']
